@@ -1,0 +1,97 @@
+{
+  "name": "KingKongSwap Default List",
+  "timestamp": "2021-03-10T07:29:43.311Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://app.kingkong.exchange/images/tokens/kkt.png",
+  "keywords": [
+    "kingkongswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "BTCK",
+      "address": "0x09973e7e3914EB5BA69C7c025F30ab9446e3e4e0",
+      "symbol": "BTCK",
+      "decimals": 10,
+      "chainId": 65,
+      "logoURI": "https://app.kingkong.exchange/images/tokens/btc.png"
+    },
+    {
+      "name": "DOTK",
+      "address": "0x72f8fa5da80dc6e20e00d02724cf05ebd302c35f",
+      "symbol": "DOTK",
+      "decimals": 10,
+      "chainId": 65,
+      "logoURI": "https://app.kingkong.exchange/images/tokens/dot.png"
+    },
+    {
+      "name": "ETHK",
+      "address": "0xDF950cEcF33E64176ada5dD733E170a56d11478E",
+      "symbol": "ETHK",
+      "decimals": 10,
+      "chainId": 65,
+      "logoURI": "https://app.kingkong.exchange/images/tokens/eth.png"
+    },
+    {
+      "name": "FILK",
+      "address": "0xf6a0Dc1fD1d2c0122ab075d7ef93aD79F02CcB93",
+      "symbol": "FILK",
+      "decimals": 10,
+      "chainId": 65,
+      "logoURI": "https://app.kingkong.exchange/images/tokens/fil.png"
+    },
+    {
+      "name": "KingKong Swap Token",
+      "address": "0x065a7ADF7207c1Be5764dee13317766EFd06320a",
+      "symbol": "KKT",
+      "decimals": 18,
+      "chainId": 65,
+      "logoURI": "https://app.kingkong.exchange/images/tokens/kkt.png"
+    },
+    {
+      "name": "LTCK",
+      "address": "0xd616388f6533B6f1c31968a305FbEE1727F55850",
+      "symbol": "LTCK",
+      "decimals": 10,
+      "chainId": 65,
+      "logoURI": "https://app.kingkong.exchange/images/tokens/ltc.png"
+    },
+    {
+      "name": "Nebulas",
+      "address": "0x6FD9dB63dbC6BE452ae7B0Fe9995c81d967870Bb",
+      "symbol": "NAS",
+      "decimals": 18,
+      "chainId": 65,
+      "logoURI": "https://app.kingkong.exchange/images/tokens/nas.png"
+    },
+    {
+      "name": "OKB",
+      "address": "0xDa9d14072Ef2262c64240Da3A93fea2279253611",
+      "symbol": "OKB",
+      "decimals": 10,
+      "chainId": 65,
+      "logoURI": "https://app.kingkong.exchange/images/tokens/okb.png"
+    },
+    {
+      "name": "Tether",
+      "address": "0xe579156f9dEcc4134B5E3A30a24Ac46BB8B01281",
+      "symbol": "USDT",
+      "decimals": 10,
+      "chainId": 65,
+      "logoURI": "https://app.kingkong.exchange/images/tokens/usdt.png"
+    },
+    {
+      "name": "Wrapped OKT",
+      "address": "0x2219845942d28716c0f7c605765fabdca1a7d9e0",
+      "symbol": "WOKT",
+      "decimals": 18,
+      "chainId": 65,
+      "logoURI": "https://app.kingkong.exchange/images/tokens/okt.png"
+    }
+  ]
+}
